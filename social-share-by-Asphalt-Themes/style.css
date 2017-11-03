@@ -1,0 +1,63 @@
+/* line 1, style.scss */
+.social-share-wrapper div {
+  float: left;
+  margin-right: 10px; }
+
+/* line 7, style.scss */
+.social-share-wrapper div.share-on {
+  padding: 5px;
+  font-weight: bold; }
+
+/* line 13, style.scss */
+.social-share-wrapper div.facebook {
+  background-color: #3a5795;
+  padding: 5px; }
+
+/* line 19, style.scss */
+.social-share-wrapper div.facebook a {
+  color: white; }
+
+/* line 24, style.scss */
+.social-share-wrapper div.twitter {
+  background-color: #55acee;
+  padding: 5px; }
+
+/* line 30, style.scss */
+.social-share-wrapper div.twitter a {
+  color: white; }
+
+/* line 35, style.scss */
+.social-share-wrapper div.linkedin {
+  background-color: #007bb6;
+  padding: 5px; }
+
+/* line 41, style.scss */
+.social-share-wrapper div.linkedin a {
+  color: white; }
+
+/* line 46, style.scss */
+.social-share-wrapper div.reddit {
+  background-color: #ACD4FC;
+  padding: 5px; }
+
+/* line 52, style.scss */
+.social-share-wrapper div.reddit a {
+  color: white; }
+
+/* line 57, style.scss */
+.social-share-wrapper div.gplus {
+  background-color: #F44336;
+  padding: 5px; }
+
+/* line 63, style.scss */
+.social-share-wrapper div.gplus a {
+  color: white; }
+
+/* line 68, style.scss */
+.social-share-wrapper div a {
+  text-decoration: none;
+  border: none; }
+
+/* line 74, style.scss */
+.clear {
+  clear: left; }
